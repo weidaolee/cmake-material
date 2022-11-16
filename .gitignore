@@ -1,0 +1,6 @@
+./project
+**/.project
+**/.cache/
+**/build/
+**/compile_commands.json
+**/*.zip
